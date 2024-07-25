@@ -1,4 +1,4 @@
-# Virtual AI Desktop Assistant
+# Virtual Assistant for Windows Os
 
 ## Description
 This project is a virtual AI desktop assistant designed to help you with daily tasks and improve productivity. Developed using Python, this assistant can understand and execute various commands, such as managing schedules, setting reminders, fetching information, and more.
